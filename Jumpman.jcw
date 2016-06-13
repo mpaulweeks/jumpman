@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Jumpman</label>
+	</settings>
+	<users>
+		<user>
+			<path>Jumpman.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Jumpman.jcp</path>
+		</project>
+	</projects>
+</workspace>
